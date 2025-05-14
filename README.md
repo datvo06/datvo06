@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I am a **Postdoctoral Fellow** with Harvard’s Programming Languages and Formal Methods groups [oai_citation:0‡pl.seas.harvard.edu](https://pl.seas.harvard.edu/) and the **Basis Research Institute** [oai_citation:1‡Basis](https://www.basis.ai/about/).
+
 I completed my PhD at the **University of Melbourne** [oai_citation:2‡Computing School](https://cis.unimelb.edu.au/), where I built neuro‑symbolic techniques that uses graph-based representation for neural networks for program analysis. Earlier, I spent 4 years at **Cinnamon AI Lab** working on visually rich document information extraction.
 
 I enjoy building learning‑aware tools that treat code as both data and logic. My work lies at the intersection of software engineering, programming languages, and machine learning, coupling **graph-based representation, large language models, and symbolic reasoning** to make software development and formal proof more reliable and automated.
