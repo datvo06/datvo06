@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!
 
 I am a **Postdoctoral Fellow** with [Harvard’s Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/) and the [Basis Research Institute](https://www.basis.ai/about/).
 
