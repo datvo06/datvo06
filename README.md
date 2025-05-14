@@ -6,17 +6,5 @@ I submitted my PhD thesis at the [University of Melbourne](https://cis.unime
 
 I enjoy building learning‑aware tools that treat code as both data and logic. My work lies at the intersection of software engineering, programming languages, and machine learning, coupling **graph-based representation, large language models, and symbolic reasoning** to make software development and formal proof more reliable and automated.
 
-Recent highlights:  
-* **VRDSynth for visually rich documents** (ISSTA ’24) [oai_citation:8‡ISSTA 2024](https://2024.issta.org/details/issta-2024-papers/57/VRDSynth-Synthesizing-Programs-for-Multilingual-Visually-Rich-Document-Information-E)  
-* **GNN‑based fault localisation** (ICSME ’22) [oai_citation:6‡SOAR](https://soarsmu.github.io/papers/2022/ICSME_FFL.pdf)  
-
 At Harvard, I am extending these ideas to proof automation in **Lean** and discovering drug repurposing candidates.
 At Basis, I am working on two projects: [MARA](https://www.basis.ai/blog/mara/) and [R-ADA](https://www.basis.ai/our-work/r-ada/)
-
----
-
-### Research interests  
-- Graph‑based analyses for code and proofs  
-- Large language models as abstraction engines for program & proof synthesis  
-- Neuro‑symbolic methods that couple **Graphs, Neural Networks, SMT, and LLMs**  
-- Explainability & robustness for ML models on code  
