@@ -4,7 +4,7 @@
 
 I am a **Postdoctoral Fellow** with [Harvard’s Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/) and the [Basis Research Institute](https://www.basis.ai/about/).
 
-I submitted my PhD thesis at the [University of Melbourne](https://cis.unimelb.edu.au/), where I built neuro‑symbolic techniques that uses graph-based representation for neural networks for program analysis. Earlier, I worked at **Cinnamon AI Lab** working on visually rich document information extraction.
+I obtained my PhD from the [University of Melbourne](https://cis.unimelb.edu.au/), where I built neuro‑symbolic techniques that uses graph-based representation for neural networks for program analysis. Earlier, I worked at Cinnamon AI Lab, working on visually rich document information extraction.
 
 I build tools that treat code as both data and logic. I aim to make software development and formal proof more reliable and automated.
 
