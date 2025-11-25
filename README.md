@@ -8,8 +8,6 @@ I am extending these ideas to proof automation in **Lean** and discovering drug 
 I obtained my PhD from the [University of Melbourne](https://cis.unimelb.edu.au/) in analyzing neural networks for program analysis and program synthesis. Previously, I worked at Cinnamon AI Lab, working on visually rich document information extraction.
 Checkout samples projects:
 
-![VRDSynth](https://github.com/datvo06/VRDSynth/raw/main/assets/VRDSynth_Animation.gif)
-[VRDSynth](https://github.com/datvo06/VRDSynth): Synthesizing Programs for Visually Rich Information Extraction.
-
-![Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp/raw/main/assets/examples_small.gif)
-[Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp): An Autumn Interpreter in Cpp for [MARA](https://www.basis.ai/blog/mara/)
+| VRDSynth | Autumn.cpp |
+|---------|------------|
+| <div align="center"> ![VRDSynth](https://github.com/datvo06/VRDSynth/raw/main/assets/VRDSynth_Animation.gif)<br>[VRDSynth](https://github.com/datvo06/VRDSynth)<br><em>Synthesizing Programs for Visually Rich Information Extraction.</em> </div> | <div align="center"> ![Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp/raw/main/assets/examples_small.gif)<br>[Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp)<br><em>An Autumn Interpreter in Cpp for MARA.</em> </div> |
