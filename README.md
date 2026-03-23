@@ -5,7 +5,7 @@ I obtained my PhD from the [University of Melbourne](https://cis.unimelb.edu.au/
 
 I work at the intersection of programming languages and machine learning — using PL abstractions (grammars, effect handlers, program synthesis) to build ML systems that are more compositional, interpretable, and robust.
 
-**Recent writing**: [Grammars that generalize](https://datvo06.github.io/blog/2026/neurosymbolic-dg/) — combining a small DSL with a neural network for image classification gives domain invariance for free.
+**Recent side project**: [Grammars that generalize](https://datvo06.github.io/blog/2026/neurosymbolic-dg/) — combining a small DSL with a neural network for image classification gives domain invariance for free.
 
 | VRDSynth | Autumn.cpp | NeuroSymbolicDG |
 |---------|------------|-----------------|
