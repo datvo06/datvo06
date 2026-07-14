@@ -1,12 +1,22 @@
 ## Hi!
 
-I am a **Postdoctoral Fellow** at [Harvard's Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/) and the [Basis Research Institute](https://www.basis.ai/about/).
-I obtained my PhD from the [University of Melbourne](https://cis.unimelb.edu.au/) in analyzing neural networks for program analysis and program synthesis.
+I am a **Joint Postdoctoral Fellow** at [Harvard's Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/) and the [Basis Research Institute](https://www.basis.ai/about/).
 
-I work at the intersection of programming languages and machine learning — using PL abstractions (grammars, effect handlers, program synthesis) to build ML systems that are more compositional, interpretable, and robust.
+I am broadly interested in the modeling of how we perceive the world, and the modeling of reasoning processes. To support this goal, I work in the emerging area between programming languages, machine learning, and probabilistic programming languages.
 
-**Recent side project**: [Grammars that generalize](https://datvo06.github.io/blog/2026/neurosymbolic-dg/) — combining a small DSL with a neural network for image classification gives domain invariance for free.
+At Basis, I work on modeling uncertainty in symbolic world models in [MARA](https://www.basis.ai/blog/mara/), designing a robot design language that captures both morphology and control in [R-ADA](https://www.basis.ai/our-work/r-ada/), and modeling LLM generation as an effect, as a framework for building agent harnesses, in [effectful](https://github.com/BasisResearch/effectful). At Harvard, I work on proof automation in Lean and causal systems for drug repurposing.
+
+I completed my PhD doing machine learning and program synthesis-based debugging at the [University of Melbourne](https://cis.unimelb.edu.au/) and previously worked at **Cinnamon AI Lab** on visually rich document information extraction.
+
+**Research interests**
+- World models: learning, evaluation, and uncertainty
+- Languages and abstractions for robot design and LLM agents
+- Program synthesis and probabilistic programming
+- Neuro-symbolic systems modeled with LLMs, PPLs, and NNs
+- Reliable, explainable ML for software, including graph-based learning for code and documents
+
+**Recent writing**: [WorldTest: how do we know whether an AI has learned how a world works?](https://datvo06.github.io/blog/2026/worldtest-talk/) My TAIC'26 talk, linearized into a story, with live environments you can play. More at [datvo06.github.io](https://datvo06.github.io/).
 
 | VRDSynth | Autumn.cpp | NeuroSymbolicDG |
 |---------|------------|-----------------|
-| <div align="center"> ![VRDSynth](https://github.com/datvo06/VRDSynth/raw/main/assets/VRDSynth_Animation.gif)<br>[VRDSynth](https://github.com/datvo06/VRDSynth)<br><em>Synthesizing Programs for Visually Rich Information Extraction.</em> </div> | <div align="center"> ![Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp/raw/main/assets/examples_small.gif)<br>[Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp)<br><em>An Autumn Interpreter in Cpp for MARA.</em> </div> | <div align="center"> ![NeuroSymbolicDG](https://github.com/datvo06/NeuroSymbolicDG/raw/main/assets/thumbnail.png)<br>[NeuroSymbolicDG](https://github.com/datvo06/NeuroSymbolicDG)<br><em>A small DSL + neural network gives domain-invariant image classification.</em> </div> |
+| <div align="center"> ![VRDSynth](https://github.com/datvo06/VRDSynth/raw/main/assets/VRDSynth_Animation.gif)<br>[VRDSynth](https://github.com/datvo06/VRDSynth)<br><em>Synthesizing Programs for Visually Rich Information Extraction.</em> </div> | <div align="center"> ![Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp/raw/main/assets/examples_small.gif)<br>[Autumn.cpp](https://github.com/BasisResearch/Autumn.cpp)<br><em>An Autumn Interpreter in Cpp for MARA. Powers AutumnBench (ICML '26).</em> </div> | <div align="center"> ![NeuroSymbolicDG](https://github.com/datvo06/NeuroSymbolicDG/raw/main/assets/thumbnail.png)<br>[NeuroSymbolicDG](https://github.com/datvo06/NeuroSymbolicDG)<br><em>A small DSL + neural network gives domain-invariant image classification.</em> </div> |
