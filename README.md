@@ -15,7 +15,7 @@ I completed my PhD doing machine learning and program synthesis-based debugging 
 - Neuro-symbolic systems modeled with LLMs, PPLs, and NNs
 - Reliable, explainable ML for software, including graph-based learning for code and documents
 
-**Recent writing**: [WorldTest: how do we know whether an AI has learned how a world works?](https://datvo06.github.io/blog/2026/worldtest-talk/) My TAIC'26 talk, linearized into a story, with live environments you can play. More at [datvo06.github.io](https://datvo06.github.io/).
+**Recent writing**: I linearized my TAIC'26 talk into a blogpost, [WorldTest: how do we know whether an AI has learned how a world works?](https://datvo06.github.io/blog/2026/worldtest-talk/) All 43 AutumnBench environments run live in the browser there. The rest of my writing is at [datvo06.github.io](https://datvo06.github.io/).
 
 | VRDSynth | Autumn.cpp | NeuroSymbolicDG |
 |---------|------------|-----------------|
