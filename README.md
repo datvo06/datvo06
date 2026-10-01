@@ -1,6 +1,6 @@
 ## Hi!
 
-I am a **Joint Postdoctoral Fellow** at [Harvard's Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/) and the [Basis Research Institute](https://www.basis.ai/about/).
+I am a **Research Scientist II** at the [Basis Research Institute](https://www.basis.ai/about/) and a **Research Associate** at [Harvard's Programming Languages and Formal Methods groups](https://pl.seas.harvard.edu/).
 
 I am broadly interested in the modeling of how we perceive the world, and the modeling of reasoning processes. To support this goal, I work in the emerging area between programming languages, machine learning, and probabilistic programming languages.
 
@@ -14,6 +14,11 @@ I completed my PhD doing machine learning and program synthesis-based debugging,
 - Program synthesis and probabilistic programming
 - Neuro-symbolic systems modeled with LLMs, PPLs, and NNs
 - Reliable, explainable ML for software, including graph-based learning for code and documents
+
+**News**
+- Oct 2026: [EMPIRIC](https://basisresearch.github.io/empiric/) is out: robots extend a physics engine with code for the physics it is missing, fit it from a few noisy experiments, and plan with it. [arXiv](https://arxiv.org/abs/2609.35047) · [code](https://github.com/BasisResearch/predicators)
+- Oct 2026: Started as a Research Scientist II at Basis, continuing as a Research Associate at Harvard.
+- The Scaffolding Paradox: Evidence from AI-Assisted Dafny Proof Synthesis is accepted at SEFM'26.
 
 - Checkout my writings here: [datvo06.github.io](https://datvo06.github.io/), latest one: [WorldTest: how do we know whether an AI has learned how a world works?](https://datvo06.github.io/blog/2026/worldtest-talk/)
 
